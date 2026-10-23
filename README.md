@@ -1,4 +1,4 @@
-# Bookstore Management System
+# COMP133 – Bookstore Management System (Phase 1)
 
 ## Description
 This project is a simple **Bookstore Management System** developed in C. It allows users to add, remove, and search for books in a bookstore.
